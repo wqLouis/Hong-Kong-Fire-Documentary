@@ -11,12 +11,12 @@ keywords: 政府文件, 官方記錄, 會議記錄, 防火通告, 行政文件, 
 ## 政府部門文件 (Government Documents)
 
 - **屋宇署 (Buildings Department)**
-  - [屋宇署致一般建築承建商、專門承建商、小型工程承建商通告函件 - 就正在興建、拆卸、改動及加建、修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025年11月27日) (BD GR/1-50/97)](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_UFRPNSTPSFBCDAARMWRC2025c.pdf)     - 
-  - [屋宇署致認可人士、結構工程師、岩土工程師、註冊檢驗人員通告函件 - 就正在興建、拆卸、改動及加建、修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025年11月27日) (BD GR/1-50/97)](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_UFRPNSTPSFBCDAARMWAPRSERGERI2025c.pdf)  - 
+  - [屋宇署致一般建築承建商、專門承建商、小型工程承建商通告函件 - 就正在興建、拆卸、改動及加建、修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025年11月27日) (BD GR/1-50/97)](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_UFRPNSTPSFBCDAARMWRC2025c.pdf)     -
+  - [屋宇署致認可人士、結構工程師、岩土工程師、註冊檢驗人員通告函件 - 就正在興建、拆卸、改動及加建、修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025年11月27日) (BD GR/1-50/97)](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_UFRPNSTPSFBCDAARMWAPRSERGERI2025c.pdf)  -
   - [屋宇署致認可人士、結構工程師、岩土工程師通告函件 - 《小型工程監管制度之技術指引》（2024年修訂版）修訂事宜(2025年10月31日) (BD MW/1-50/11)](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_ATGMWCS2025c.pdf)
   - [屋宇署通告函件 - 就正在興建、拆卸，或進行修葺或小型工程的建築物在外牆裝設阻燃保護網／保護幕／防水油布／塑膠帆布須知 (2025年10月21日) (BD GR/1-50/97)](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_UFRPNSTPSFBCDRMW2025c.pdf)
   - [屋宇署致業界通告函件 - 大廈維修或修葺工程的竹棚架安全 (2025年4月16日) ((54) in BD GR/1-50/97)](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/circular/2025/CL_SBSBMRW2025c.pdf)
-  - [2011年建築物消防安全守則（2024年修訂版）](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/code-and-design-manuals/fs_code2011_c.pdf) 
+  - [2011年建築物消防安全守則（2024年修訂版）](https://www.bd.gov.hk/doc/tc/resources/codes-and-references/code-and-design-manuals/fs_code2011_c.pdf)
   - [屋宇署命令 (BD GPBORD71)](BD%20GPBORD71.jpg)
   - [屋宇署文件 (BD GR1-5097)](BD%20GR1-5097.pdf)
   - [屋宇署行動 (LM 18-92 BD GRACT11)](LM%2018-92%20BD%20GRACT11.png)
@@ -48,11 +48,14 @@ keywords: 政府文件, 官方記錄, 會議記錄, 防火通告, 行政文件, 
   - [宏福苑 (H座) 典型樓層平面圖](Typical%20Floor%20Plan/wangfukcourt_bh.pdf) - 收集自: <https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wangfukcourt_bh.pdf>
 
 ## **宏福苑大維修工程相關文件**
+
+[點擊進入文件目錄 (Click to access document directory)](renovation_docs/README.md)
+
+本目錄收錄了與宏福苑大維修工程相關的文件，包括財務簡報、工程進度、會議記錄及技術文件。
+
 - **[工程解說會簡報 (宏業及鴻毅)](renovation_docs/工程解說會簡報(宏業及鴻毅).pdf)** - 收集自: <http://www.wangfuk.org/html/home/doc/%E5%B7%A5%E7%A8%8B%E8%A7%A3%E8%AA%AA%E6%9C%83%E7%B0%A1%E5%A0%B1(%E5%AE%8F%E6%A5%AD%E5%8F%8A%E9%B4%BB%E6%AF%85).pdf>
 - **[強制驗樓修葺工程標書簡要](renovation_docs/8.強制驗樓修葺工程標書簡要.pdf)**  - 收集自: <http://www.wangfuk.org/html/home/doc/%E6%A8%93%E5%AE%87%E5%BE%A9%E4%BF%AE%E5%B7%A5%E7%A8%8B%E8%B3%87%E6%96%99%E7%B0%A1%E5%A0%B1%E5%B0%8F%E5%86%8A%E5%AD%90.pdf>
 - **[樓宇復修工程資料簡報小冊子](renovation_docs/樓宇復修工程資料簡報小冊子.pdf)** - 收集自: <http://www.wangfuk.org/html/home/doc/2024-10-02%20L46-%E5%A4%96%E7%89%86%E6%96%BD%E5%B7%A5(%E4%BF%9D%E8%AD%B7%E6%8E%AA%E6%96%BD%E5%8F%8A%E6%89%93%E9%91%BF)%E6%B5%81%E7%A8%8B(A-H%E5%A1%B5).pdf>
-
-
 
 ## 宏福苑業主立案法團會議記錄 (Meeting Minutes)
 
@@ -73,5 +76,3 @@ keywords: 政府文件, 官方記錄, 會議記錄, 防火通告, 行政文件, 
 - 2025-03-01
 
 *(更多年份請點擊上方連結進入子目錄查閱)*
-
-
